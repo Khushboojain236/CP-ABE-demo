@@ -4,5 +4,5 @@ No plagirism has been intended.
 
 
 
-The files have been restructured and the policy and attributes have to reflect the Know-Your-Customer(KYC) use case. 
+The files have been restructured, to indicate purpose of each entity: Bank, Customer and Regulator. The policy and attributes have to reflect the Know-Your-Customer(KYC) use case. 
 No code has been written only attributes and policy has been changed for use case.  
